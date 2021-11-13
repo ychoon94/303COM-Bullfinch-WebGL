@@ -26,7 +26,9 @@ https://ychoon94.github.io/303COM-Bullfinch-WebGL/
 https://github.com/ychoon94/303COM-Bullfinch
 
 ## Known Bugs
-The game volume is very **LOUD**. Please mute the browser tab as there are no current solution to turn down the volume.
+- [x] The game volume is very **LOUD**. Please mute the browser tab as there are no current solution to turn down the volume.
+- [ ] Monster difficulty balancing.
+- [ ] You tell me.
 
 ## Credits and Attributions
 If you wish to use the files below in your own commercial projects be sure to credit these creators for their work, published under a CC3-BY licence (https://creativecommons.org/licenses/by/3.0/)
